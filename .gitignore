@@ -1,0 +1,9 @@
+data/
+results/germline/*.vcf.gz*
+results/somatic/*.vcf.gz*
+!results/filtered/*.vcf.gz
+work/
+.nextflow*
+*.bam
+*.bai
+*.fastq*
