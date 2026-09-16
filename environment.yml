@@ -1,0 +1,10 @@
+name: cancer-variants
+channels:
+  - conda-forge
+dependencies:
+  - gatk4
+  - samtools
+  - bwa
+  - picard
+  - bcftools
+prefix: /home/jaquebail/miniforge3/envs/cancer-variants
