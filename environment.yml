@@ -7,4 +7,5 @@ dependencies:
   - bwa
   - picard
   - bcftools
+  - sra-tools
 prefix: /home/jaquebail/miniforge3/envs/cancer-variants
